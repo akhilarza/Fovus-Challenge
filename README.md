@@ -112,3 +112,13 @@ After following these steps, your AWS credentials will be configured, and you ca
   http://localhost:3000
   ```
    
+
+### References: 
+1. https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib-readme.html
+2. https://docs.aws.amazon.com/cdk/v2/guide/work-with-cdk-javascript.html
+3. https://docs.aws.amazon.com/lambda/latest/dg/typescript-package.html
+4. https://hevodata.com/learn/aws-cdk-lambda/
+5. https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_use-resources.html
+6. https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/javascriptv3/example_code/web/s3
+7. https://docs.databricks.com/en/connect/storage/tutorial-s3-instance-profile.html
+8. https://docs.aws.amazon.com/code-library/latest/ug/python_3_ec2_code_examples.html
